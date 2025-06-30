@@ -1,0 +1,942 @@
+{
+  "slot_games": [
+    {
+      "title": "Jungle Riches",
+      "theme": "Jungle/Adventure",
+      "volatility": "High",
+      "features": [
+        "Free Spins",
+        "Wild Symbols",
+        "Multiplier"
+      ],
+      "reels": 5,
+      "art_style": "Cartoonish",
+      "soundtrack_style": "Tribal Drums",
+      "payout_percentage": 96.5,
+      "minimum_bet_gbp": 0.4,
+      "playlines": 20,
+      "max_win_multiplier": 972
+    },
+    {
+      "title": "Underwater Treasures",
+      "theme": "Ocean/Adventure",
+      "volatility": "Medium",
+      "features": [
+        "Free Spins",
+        "Scatter Symbols",
+        "Bonus Game"
+      ],
+      "reels": 5,
+      "art_style": "Realistic",
+      "soundtrack_style": "Ambient Ocean Sounds",
+      "payout_percentage": 95.8,
+      "minimum_bet_gbp": 0.2,
+      "playlines": 25,
+      "max_win_multiplier": 850
+    },
+    {
+      "title": "Mystic Egypt",
+      "theme": "Ancient Egypt",
+      "volatility": "High",
+      "features": [
+        "Wild Symbols",
+        "Free Spins",
+        "Progressive Jackpot"
+      ],
+      "reels": 5,
+      "art_style": "Stylized",
+      "soundtrack_style": "Traditional Egyptian Music",
+      "payout_percentage": 97.2,
+      "minimum_bet_gbp": 0.5,
+      "playlines": 30,
+      "max_win_multiplier": 1200
+    },
+    {
+      "title": "Space Adventure",
+      "theme": "Sci-Fi/Space",
+      "volatility": "Medium",
+      "features": [
+        "Expanding Wilds",
+        "Free Spins",
+        "Bonus Game"
+      ],
+      "reels": 5,
+      "art_style": "Futuristic",
+      "soundtrack_style": "Electronic Beats",
+      "payout_percentage": 94.6,
+      "minimum_bet_gbp": 0.3,
+      "playlines": 15,
+      "max_win_multiplier": 600
+    },
+    {
+      "title": "Fantasy Castle",
+      "theme": "Fantasy",
+      "volatility": "Low",
+      "features": [
+        "Wild Symbols",
+        "Bonus Game"
+      ],
+      "reels": 5,
+      "art_style": "Fairy Tale",
+      "soundtrack_style": "Orchestral",
+      "payout_percentage": 96.0,
+      "minimum_bet_gbp": 0.1,
+      "playlines": 10,
+      "max_win_multiplier": 400
+    },
+    {
+      "title": "Pirate's Gold",
+      "theme": "Pirates/Adventure",
+      "volatility": "High",
+      "features": [
+        "Treasure Hunt Bonus",
+        "Free Spins",
+        "Wild Symbols"
+      ],
+      "reels": 5,
+      "art_style": "Cartoonish",
+      "soundtrack_style": "Sea Shanties",
+      "payout_percentage": 95.5,
+      "minimum_bet_gbp": 0.2,
+      "playlines": 25,
+      "max_win_multiplier": 800
+    },
+    {
+      "title": "Wild West Showdown",
+      "theme": "Wild West",
+      "volatility": "Medium",
+      "features": [
+        "Bonus Game",
+        "Wild Symbols",
+        "Free Spins"
+      ],
+      "reels": 5,
+      "art_style": "Comic Style",
+      "soundtrack_style": "Country Music",
+      "payout_percentage": 96.3,
+      "minimum_bet_gbp": 0.4,
+      "playlines": 20,
+      "max_win_multiplier": 700
+    },
+    {
+      "title": "Frozen Adventure",
+      "theme": "Winter/Mountains",
+      "volatility": "Low",
+      "features": [
+        "Free Spins",
+        "Wild Symbols"
+      ],
+      "reels": 5,
+      "art_style": "Cartoonish",
+      "soundtrack_style": "Chilly Winds",
+      "payout_percentage": 97.0,
+      "minimum_bet_gbp": 0.5,
+      "playlines": 15,
+      "max_win_multiplier": 350
+    },
+    {
+      "title": "Enchanted Forest",
+      "theme": "Fantasy",
+      "volatility": "Medium",
+      "features": [
+        "Free Spins",
+        "Wild Symbols",
+        "Bonus Game"
+      ],
+      "reels": 5,
+      "art_style": "Whimsical",
+      "soundtrack_style": "Magical Sounds",
+      "payout_percentage": 96.7,
+      "minimum_bet_gbp": 0.3,
+      "playlines": 20,
+      "max_win_multiplier": 500
+    },
+    {
+      "title": "Celtic Legends",
+      "theme": "Mythology",
+      "volatility": "High",
+      "features": [
+        "Wild Symbols",
+        "Free Spins",
+        "Multiplier"
+      ],
+      "reels": 5,
+      "art_style": "Stylized",
+      "soundtrack_style": "Celtic Music",
+      "payout_percentage": 95.9,
+      "minimum_bet_gbp": 0.4,
+      "playlines": 25,
+      "max_win_multiplier": 900
+    },
+    {
+      "title": "Retro Rewind",
+      "theme": "Classic/Retro",
+      "volatility": "Medium",
+      "features": [
+        "Wild Symbols",
+        "Bonus Game"
+      ],
+      "reels": 5,
+      "art_style": "Pixel Art",
+      "soundtrack_style": "8-Bit Music",
+      "payout_percentage": 94.0,
+      "minimum_bet_gbp": 0.2,
+      "playlines": 10,
+      "max_win_multiplier": 300
+    },
+    {
+      "title": "Mythical Beasts",
+      "theme": "Fantasy/Mythology",
+      "volatility": "High",
+      "features": [
+        "Free Spins",
+        "Wild Symbols",
+        "Jackpot"
+      ],
+      "reels": 5,
+      "art_style": "Illustrated",
+      "soundtrack_style": "Epic Music",
+      "payout_percentage": 96.4,
+      "minimum_bet_gbp": 0.5,
+      "playlines": 30,
+      "max_win_multiplier": 1000
+    },
+    {
+      "title": "Safari Adventures",
+      "theme": "Safari/Wildlife",
+      "volatility": "Medium",
+      "features": [
+        "Free Spins",
+        "Wild Symbols",
+        "Bonus Game"
+      ],
+      "reels": 5,
+      "art_style": "Realistic",
+      "soundtrack_style": "Nature Sounds",
+      "payout_percentage": 95.7,
+      "minimum_bet_gbp": 0.3,
+      "playlines": 15,
+      "max_win_multiplier": 600
+    },
+    {
+      "title": "Dragon's Lair",
+      "theme": "Fantasy/Dragons",
+      "volatility": "High",
+      "features": [
+        "Free Spins",
+        "Wild Symbols",
+        "Bonus Game"
+      ],
+      "reels": 5,
+      "art_style": "Detailed",
+      "soundtrack_style": "Orchestral",
+      "payout_percentage": 97.1,
+      "minimum_bet_gbp": 0.4,
+      "playlines": 20,
+      "max_win_multiplier": 1100
+    },
+    {
+      "title": "Treasure of the Pharaohs",
+      "theme": "Ancient Egypt",
+      "volatility": "Medium",
+      "features": [
+        "Bonus Game",
+        "Free Spins"
+      ],
+      "reels": 5,
+      "art_style": "Stylized",
+      "soundtrack_style": "Traditional Egyptian Music",
+      "payout_percentage": 96.2,
+      "minimum_bet_gbp": 0.2,
+      "playlines": 25,
+      "max_win_multiplier": 750
+    },
+    {
+      "title": "Viking Voyage",
+      "theme": "Vikings/Adventure",
+      "volatility": "High",
+      "features": [
+        "Wild Symbols",
+        "Scatter Symbols",
+        "Bonus Game"
+      ],
+      "reels": 5,
+      "art_style": "Illustrated",
+      "soundtrack_style": "Norse Music",
+      "payout_percentage": 95.4,
+      "minimum_bet_gbp": 0.3,
+      "playlines": 20,
+      "max_win_multiplier": 900
+    },
+    {
+      "title": "Candy Land",
+      "theme": "Candy/Sweets",
+      "volatility": "Low",
+      "features": [
+        "Free Spins",
+        "Wild Symbols"
+      ],
+      "reels": 5,
+      "art_style": "Colorful",
+      "soundtrack_style": "Cheerful Tunes",
+      "payout_percentage": 96.8,
+      "minimum_bet_gbp": 0.1,
+      "playlines": 10,
+      "max_win_multiplier": 400
+    },
+    {
+      "title": "Haunted Mansion",
+      "theme": "Horror/Haunted",
+      "volatility": "Medium",
+      "features": [
+        "Free Spins",
+        "Wild Symbols",
+        "Bonus Game"
+      ],
+      "reels": 5,
+      "art_style": "Gothic",
+      "soundtrack_style": "Spooky Sounds",
+      "payout_percentage": 94.7,
+      "minimum_bet_gbp": 0.3,
+      "playlines": 25,
+      "max_win_multiplier": 650
+    },
+    {
+      "title": "Medieval Mayhem",
+      "theme": "Medieval",
+      "volatility": "High",
+      "features": [
+        "Free Spins",
+        "Wild Symbols",
+        "Progressive Jackpot"
+      ],
+      "reels": 5,
+      "art_style": "Detailed",
+      "soundtrack_style": "Epic Music",
+      "payout_percentage": 97.3,
+      "minimum_bet_gbp": 0.4,
+      "playlines": 20,
+      "max_win_multiplier": 1200
+    },
+    {
+      "title": "Rock 'n' Roll Slots",
+      "theme": "Music/Rock",
+      "volatility": "Medium",
+      "features": [
+        "Wild Symbols",
+        "Free Spins",
+        "Bonus Game"
+      ],
+      "reels": 5,
+      "art_style": "Stylized",
+      "soundtrack_style": "Rock Music",
+      "payout_percentage": 95.6,
+      "minimum_bet_gbp": 0.3,
+      "playlines": 15,
+      "max_win_multiplier": 700
+    },
+    {
+      "title": "Circus Spectacular",
+      "theme": "Circus",
+      "volatility": "Low",
+      "features": [
+        "Free Spins",
+        "Wild Symbols"
+      ],
+      "reels": 5,
+      "art_style": "Colorful",
+      "soundtrack_style": "Circus Music",
+      "payout_percentage": 96.0,
+      "minimum_bet_gbp": 0.2,
+      "playlines": 10,
+      "max_win_multiplier": 300
+    },
+    {
+      "title": "Superhero Showdown",
+      "theme": "Superheroes",
+      "volatility": "High",
+      "features": [
+        "Free Spins",
+        "Wild Symbols",
+        "Multiplier"
+      ],
+      "reels": 5,
+      "art_style": "Comic Book",
+      "soundtrack_style": "Action Music",
+      "payout_percentage": 96.9,
+      "minimum_bet_gbp": 0.5,
+      "playlines": 25,
+      "max_win_multiplier": 1000
+    },
+    {
+      "title": "Mythical Creatures",
+      "theme": "Fantasy/Mythology",
+      "volatility": "Medium",
+      "features": [
+        "Free Spins",
+        "Wild Symbols",
+        "Bonus Game"
+      ],
+      "reels": 5,
+      "art_style": "Detailed",
+      "soundtrack_style": "Mystical Music",
+      "payout_percentage": 95.8,
+      "minimum_bet_gbp": 0.4,
+      "playlines": 20,
+      "max_win_multiplier": 800
+    },
+    {
+      "title": "Dance Party",
+      "theme": "Music/Party",
+      "volatility": "Low",
+      "features": [
+        "Wild Symbols",
+        "Free Spins"
+      ],
+      "reels": 5,
+      "art_style": "Colorful",
+      "soundtrack_style": "Dance Music",
+      "payout_percentage": 96.2,
+      "minimum_bet_gbp": 0.1,
+      "playlines": 10,
+      "max_win_multiplier": 350
+    },
+    {
+      "title": "Zombie Apocalypse",
+      "theme": "Horror/Zombies",
+      "volatility": "High",
+      "features": [
+        "Free Spins",
+        "Wild Symbols",
+        "Bonus Game"
+      ],
+      "reels": 5,
+      "art_style": "Graphic Novel",
+      "soundtrack_style": "Eerie Music",
+      "payout_percentage": 94.5,
+      "minimum_bet_gbp": 0.3,
+      "playlines": 15,
+      "max_win_multiplier": 600
+    },
+    {
+      "title": "Space Invaders",
+      "theme": "Sci-Fi/Space",
+      "volatility": "Medium",
+      "features": [
+        "Free Spins",
+        "Wild Symbols",
+        "Multiplier"
+      ],
+      "reels": 5,
+      "art_style": "Retro",
+      "soundtrack_style": "Electronic",
+      "payout_percentage": 96.1,
+      "minimum_bet_gbp": 0.4,
+      "playlines": 20,
+      "max_win_multiplier": 850
+    },
+    {
+      "title": "Alien Encounter",
+      "theme": "Sci-Fi/Space",
+      "volatility": "High",
+      "features": [
+        "Wild Symbols",
+        "Free Spins",
+        "Bonus Game"
+      ],
+      "reels": 5,
+      "art_style": "Futuristic",
+      "soundtrack_style": "Synth Music",
+      "payout_percentage": 95.3,
+      "minimum_bet_gbp": 0.2,
+      "playlines": 25,
+      "max_win_multiplier": 900
+    },
+    {
+      "title": "Fairy Tale Dreams",
+      "theme": "Fantasy",
+      "volatility": "Medium",
+      "features": [
+        "Free Spins",
+        "Wild Symbols",
+        "Bonus Game"
+      ],
+      "reels": 5,
+      "art_style": "Illustrated",
+      "soundtrack_style": "Enchanting Music",
+      "payout_percentage": 96.7,
+      "minimum_bet_gbp": 0.3,
+      "playlines": 20,
+      "max_win_multiplier": 600
+    },
+    {
+      "title": "Samurai Showdown",
+      "theme": "Historical/Japan",
+      "volatility": "High",
+      "features": [
+        "Free Spins",
+        "Wild Symbols",
+        "Bonus Game"
+      ],
+      "reels": 5,
+      "art_style": "Stylized",
+      "soundtrack_style": "Traditional Japanese Music",
+      "payout_percentage": 97.4,
+      "minimum_bet_gbp": 0.4,
+      "playlines": 25,
+      "max_win_multiplier": 1000
+    },
+    {
+      "title": "Wild Animals",
+      "theme": "Wildlife/Nature",
+      "volatility": "Medium",
+      "features": [
+        "Free Spins",
+        "Wild Symbols"
+      ],
+      "reels": 5,
+      "art_style": "Realistic",
+      "soundtrack_style": "Nature Sounds",
+      "payout_percentage": 95.9,
+      "minimum_bet_gbp": 0.2,
+      "playlines": 15,
+      "max_win_multiplier": 400
+    },
+    {
+      "title": "Ice Age Adventure",
+      "theme": "Prehistoric",
+      "volatility": "High",
+      "features": [
+        "Free Spins",
+        "Wild Symbols",
+        "Multiplier"
+      ],
+      "reels": 5,
+      "art_style": "Cartoonish",
+      "soundtrack_style": "Epic Music",
+      "payout_percentage": 96.5,
+      "minimum_bet_gbp": 0.3,
+      "playlines": 25,
+      "max_win_multiplier": 800
+    },
+    {
+      "title": "Royal Treasures",
+      "theme": "Royalty",
+      "volatility": "Low",
+      "features": [
+        "Free Spins",
+        "Wild Symbols"
+      ],
+      "reels": 5,
+      "art_style": "Elegant",
+      "soundtrack_style": "Classical Music",
+      "payout_percentage": 96.8,
+      "minimum_bet_gbp": 0.1,
+      "playlines": 10,
+      "max_win_multiplier": 350
+    },
+    {
+      "title": "Dino Dash",
+      "theme": "Dinosaurs/Adventure",
+      "volatility": "Medium",
+      "features": [
+        "Free Spins",
+        "Wild Symbols",
+        "Bonus Game"
+      ],
+      "reels": 5,
+      "art_style": "Cartoonish",
+      "soundtrack_style": "Adventurous Music",
+      "payout_percentage": 95.6,
+      "minimum_bet_gbp": 0.2,
+      "playlines": 20,
+      "max_win_multiplier": 650
+    },
+    {
+      "title": "Gem Quest",
+      "theme": "Adventure/Treasures",
+      "volatility": "High",
+      "features": [
+        "Free Spins",
+        "Wild Symbols",
+        "Bonus Game"
+      ],
+      "reels": 5,
+      "art_style": "Stylized",
+      "soundtrack_style": "Epic Adventure Music",
+      "payout_percentage": 97.2,
+      "minimum_bet_gbp": 0.4,
+      "playlines": 25,
+      "max_win_multiplier": 900
+    },
+    {
+      "title": "Time Travel Adventure",
+      "theme": "Time Travel",
+      "volatility": "Medium",
+      "features": [
+        "Wild Symbols",
+        "Free Spins",
+        "Bonus Game"
+      ],
+      "reels": 5,
+      "art_style": "Cartoonish",
+      "soundtrack_style": "Futuristic Music",
+      "payout_percentage": 96.1,
+      "minimum_bet_gbp": 0.3,
+      "playlines": 15,
+      "max_win_multiplier": 600
+    },
+    {
+      "title": "Witch's Brew",
+      "theme": "Witches/Halloween",
+      "volatility": "High",
+      "features": [
+        "Free Spins",
+        "Wild Symbols",
+        "Bonus Game"
+      ],
+      "reels": 5,
+      "art_style": "Gothic",
+      "soundtrack_style": "Spooky Music",
+      "payout_percentage": 95.7,
+      "minimum_bet_gbp": 0.4,
+      "playlines": 20,
+      "max_win_multiplier": 800
+    },
+    {
+      "title": "Treasure Island",
+      "theme": "Pirates/Treasure",
+      "volatility": "Medium",
+      "features": [
+        "Free Spins",
+        "Wild Symbols",
+        "Bonus Game"
+      ],
+      "reels": 5,
+      "art_style": "Cartoonish",
+      "soundtrack_style": "Adventure Music",
+      "payout_percentage": 96.5,
+      "minimum_bet_gbp": 0.3,
+      "playlines": 25,
+      "max_win_multiplier": 750
+    },
+    {
+      "title": "Cursed Riches",
+      "theme": "Cursed/Treasures",
+      "volatility": "High",
+      "features": [
+        "Free Spins",
+        "Wild Symbols",
+        "Multiplier"
+      ],
+      "reels": 5,
+      "art_style": "Dark",
+      "soundtrack_style": "Eerie Music",
+      "payout_percentage": 97.0,
+      "minimum_bet_gbp": 0.4,
+      "playlines": 20,
+      "max_win_multiplier": 900
+    },
+    {
+      "title": "Lucky Leprechaun",
+      "theme": "Irish/Fantasy",
+      "volatility": "Low",
+      "features": [
+        "Free Spins",
+        "Wild Symbols"
+      ],
+      "reels": 5,
+      "art_style": "Cartoonish",
+      "soundtrack_style": "Irish Music",
+      "payout_percentage": 96.4,
+      "minimum_bet_gbp": 0.1,
+      "playlines": 10,
+      "max_win_multiplier": 300
+    },
+    {
+      "title": "Robot Revolution",
+      "theme": "Sci-Fi/Future",
+      "volatility": "Medium",
+      "features": [
+        "Free Spins",
+        "Wild Symbols",
+        "Bonus Game"
+      ],
+      "reels": 5,
+      "art_style": "Futuristic",
+      "soundtrack_style": "Techno Music",
+      "payout_percentage": 95.8,
+      "minimum_bet_gbp": 0.2,
+      "playlines": 15,
+      "max_win_multiplier": 650
+    },
+    {
+      "title": "Harvest Moon",
+      "theme": "Farming/Nature",
+      "volatility": "Low",
+      "features": [
+        "Free Spins",
+        "Wild Symbols"
+      ],
+      "reels": 5,
+      "art_style": "Pastoral",
+      "soundtrack_style": "Folk Music",
+      "payout_percentage": 96.0,
+      "minimum_bet_gbp": 0.1,
+      "playlines": 10,
+      "max_win_multiplier": 400
+    },
+    {
+      "title": "Supernova Slots",
+      "theme": "Sci-Fi/Space",
+      "volatility": "High",
+      "features": [
+        "Free Spins",
+        "Wild Symbols",
+        "Multiplier"
+      ],
+      "reels": 5,
+      "art_style": "Futuristic",
+      "soundtrack_style": "Cosmic Sounds",
+      "payout_percentage": 97.1,
+      "minimum_bet_gbp": 0.5,
+      "playlines": 20,
+      "max_win_multiplier": 1100
+    },
+    {
+      "title": "Gothic Romance",
+      "theme": "Romance/Gothic",
+      "volatility": "Medium",
+      "features": [
+        "Free Spins",
+        "Wild Symbols",
+        "Bonus Game"
+      ],
+      "reels": 5,
+      "art_style": "Dark",
+      "soundtrack_style": "Melancholic Music",
+      "payout_percentage": 95.2,
+      "minimum_bet_gbp": 0.3,
+      "playlines": 15,
+      "max_win_multiplier": 550
+    },
+    {
+      "title": "Futuristic Racing",
+      "theme": "Racing/Sci-Fi",
+      "volatility": "High",
+      "features": [
+        "Free Spins",
+        "Wild Symbols",
+        "Bonus Game"
+      ],
+      "reels": 5,
+      "art_style": "Stylized",
+      "soundtrack_style": "Fast-Paced Music",
+      "payout_percentage": 96.3,
+      "minimum_bet_gbp": 0.4,
+      "playlines": 20,
+      "max_win_multiplier": 800
+    },
+    {
+      "title": "Treasure Hunt",
+      "theme": "Adventure/Treasure",
+      "volatility": "Medium",
+      "features": [
+        "Free Spins",
+        "Wild Symbols",
+        "Bonus Game"
+      ],
+      "reels": 5,
+      "art_style": "Cartoonish",
+      "soundtrack_style": "Adventure Music",
+      "payout_percentage": 95.9,
+      "minimum_bet_gbp": 0.2,
+      "playlines": 25,
+      "max_win_multiplier": 900
+    },
+    {
+      "title": "Bounty Hunter",
+      "theme": "Western/Crime",
+      "volatility": "High",
+      "features": [
+        "Free Spins",
+        "Wild Symbols",
+        "Bonus Game"
+      ],
+      "reels": 5,
+      "art_style": "Stylized",
+      "soundtrack_style": "Cowboy Music",
+      "payout_percentage": 96.7,
+      "minimum_bet_gbp": 0.3,
+      "playlines": 20,
+      "max_win_multiplier": 1000
+    },
+    {
+      "title": "Gemini Twins",
+      "theme": "Astrology/Mythology",
+      "volatility": "Low",
+      "features": [
+        "Free Spins",
+        "Wild Symbols"
+      ],
+      "reels": 5,
+      "art_style": "Colorful",
+      "soundtrack_style": "Mystical Music",
+      "payout_percentage": 96.5,
+      "minimum_bet_gbp": 0.1,
+      "playlines": 10,
+      "max_win_multiplier": 300
+    },
+    {
+      "title": "Celestial Wonders",
+      "theme": "Space/Astronomy",
+      "volatility": "Medium",
+      "features": [
+        "Free Spins",
+        "Wild Symbols",
+        "Multiplier"
+      ],
+      "reels": 5,
+      "art_style": "Futuristic",
+      "soundtrack_style": "Cosmic Sounds",
+      "payout_percentage": 95.6,
+      "minimum_bet_gbp": 0.3,
+      "playlines": 15,
+      "max_win_multiplier": 650
+    },
+    {
+      "title": "Magic Forest",
+      "theme": "Fantasy/Nature",
+      "volatility": "High",
+      "features": [
+        "Free Spins",
+        "Wild Symbols",
+        "Bonus Game"
+      ],
+      "reels": 5,
+      "art_style": "Illustrated",
+      "soundtrack_style": "Enchanting Music",
+      "payout_percentage": 96.9,
+      "minimum_bet_gbp": 0.4,
+      "playlines": 20,
+      "max_win_multiplier": 800
+    },
+    {
+      "title": "Bubble Bonanza",
+      "theme": "Candy/Fun",
+      "volatility": "Low",
+      "features": [
+        "Free Spins",
+        "Wild Symbols"
+      ],
+      "reels": 5,
+      "art_style": "Cartoonish",
+      "soundtrack_style": "Cheerful Tunes",
+      "payout_percentage": 96.6,
+      "minimum_bet_gbp": 0.1,
+      "playlines": 10,
+      "max_win_multiplier": 350
+    },
+    {
+      "title": "Cosmic Voyage",
+      "theme": "Space/Adventure",
+      "volatility": "High",
+      "features": [
+        "Free Spins",
+        "Wild Symbols",
+        "Bonus Game"
+      ],
+      "reels": 5,
+      "art_style": "Futuristic",
+      "soundtrack_style": "Epic Space Music",
+      "payout_percentage": 97.3,
+      "minimum_bet_gbp": 0.5,
+      "playlines": 25,
+      "max_win_multiplier": 1100
+    },
+    {
+      "title": "Bubble Trouble",
+      "theme": "Kids/Fun",
+      "volatility": "Medium",
+      "features": [
+        "Free Spins",
+        "Wild Symbols",
+        "Bonus Game"
+      ],
+      "reels": 5,
+      "art_style": "Cartoonish",
+      "soundtrack_style": "Fun Sounds",
+      "payout_percentage": 95.4,
+      "minimum_bet_gbp": 0.2,
+      "playlines": 15,
+      "max_win_multiplier": 600
+    },
+    {
+      "title": "Magic Show",
+      "theme": "Magic/Illusion",
+      "volatility": "Low",
+      "features": [
+        "Free Spins",
+        "Wild Symbols"
+      ],
+      "reels": 5,
+      "art_style": "Stylized",
+      "soundtrack_style": "Magical Music",
+      "payout_percentage": 96.2,
+      "minimum_bet_gbp": 0.1,
+      "playlines": 10,
+      "max_win_multiplier": 350
+    },
+    {
+      "title": "Wilderness Escape",
+      "theme": "Nature/Adventure",
+      "volatility": "High",
+      "features": [
+        "Free Spins",
+        "Wild Symbols",
+        "Bonus Game"
+      ],
+      "reels": 5,
+      "art_style": "Realistic",
+      "soundtrack_style": "Nature Sounds",
+      "payout_percentage": 97.1,
+      "minimum_bet_gbp": 0.3,
+      "playlines": 20,
+      "max_win_multiplier": 900
+    },
+    {
+      "title": "Wild West Gold",
+      "theme": "Wild West",
+      "volatility": "Medium",
+      "features": [
+        "Free Spins",
+        "Wild Symbols",
+        "Bonus Game"
+      ],
+      "reels": 5,
+      "art_style": "Stylized",
+      "soundtrack_style": "Country Music",
+      "payout_percentage": 96.0,
+      "minimum_bet_gbp": 0.4,
+      "playlines": 25,
+      "max_win_multiplier": 800
+    },
+    {
+      "title": "Gem Craze",
+      "theme": "Adventure/Treasure",
+      "volatility": "High",
+      "features": [
+        "Free Spins",
+        "Wild Symbols",
+        "Bonus Game"
+      ],
+      "reels": 5,
+      "art_style": "Cartoonish",
+      "soundtrack_style": "Epic Music",
+      "payout_percentage": 95.8,
+      "minimum_bet_gbp": 0.2,
+      "playlines": 15,
+      "max_win_multiplier": 700
+    }
+  ]
+}
