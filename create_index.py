@@ -16,7 +16,7 @@ slot_games = games["slot_games"]
 game_texts = [json.dumps(game, ensure_ascii=False) for game in slot_games]
 
 response = client.embeddings.create(
-    model="text-embedding-3-small",  # Or use "text-embedding-ada-002"
+    model="text-embedding-3-small",
     input=game_texts
 )
 
